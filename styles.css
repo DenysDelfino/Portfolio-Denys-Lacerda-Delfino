@@ -174,8 +174,9 @@ section div button:hover {
 }
 
 .card .mario {
-    margin-bottom: 140px;
+    margin-bottom: 50px;
 }
+
 
 .card a {
     background-color: #f9004d;
@@ -202,7 +203,6 @@ section div button:hover {
     justify-content: space-around;
     margin-top: 100px;
 }
-
 
 
 footer {
